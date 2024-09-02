@@ -1,31 +1,11 @@
 # test
 
-## Color Palette
+ ## Color Palette
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+![#FF5733](https://placehold.co/100x100/FF5733/FFFFFF?text=%23FF5733)
+![#33FF57](https://placehold.co/100x100/33FF57/FFFFFF?text=%23FF57)
+![#3357FF](https://placehold.co/100x100/3357FF/FFFFFF?text=%233357FF)
+![#FF33A6](https://placehold.co/100x100/FF33A6/FFFFFF?text=%23FF33A6)
+![#F1C40F](https://placehold.co/100x100/F1C40F/FFFFFF?text=%23F1C40F)
+![#2ECC71](https://placehold.co/100x100/2ECC71/FFFFFF?text=%232ECC71)
 
-  <div style="width: 100px; height: 100px; background-color: #FF5733; display: flex; justify-content: center; align-items: center; color: white; font-weight: bold;">
-    #FF5733
-  </div>
-
-  <div style="width: 100px; height: 100px; background-color: #33FF57; display: flex; justify-content: center; align-items: center; color: white; font-weight: bold;">
-    #33FF57
-  </div>
-
-  <div style="width: 100px; height: 100px; background-color: #3357FF; display: flex; justify-content: center; align-items: center; color: white; font-weight: bold;">
-    #3357FF
-  </div>
-
-  <div style="width: 100px; height: 100px; background-color: #FF33A6; display: flex; justify-content: center; align-items: center; color: white; font-weight: bold;">
-    #FF33A6
-  </div>
-
-  <div style="width: 100px; height: 100px; background-color: #F1C40F; display: flex; justify-content: center; align-items: center; color: white; font-weight: bold;">
-    #F1C40F
-  </div>
-
-  <div style="width: 100px; height: 100px; background-color: #2ECC71; display: flex; justify-content: center; align-items: center; color: white; font-weight: bold;">
-    #2ECC71
-  </div>
-
-</div>
